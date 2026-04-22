@@ -28,7 +28,11 @@ This repository contains all Python lab programs from Q1 to Q31 as per BCA Semes
 1. Open file in Pydroid 3
 2. Run the program
 3. Check output
-4. make sure install numpy,pandas and matplotlib on your pydroid3 
+4. make sure text file and code in same
+   folder 
+5.make sure install numpy,pandas 
+  and matplotlib on your pydroid3 
+
 
 ## 🔗 GitHub Repository
 (Your repo link here;- https://github.com/RAMAKANTTIWARI45/BCA-LAB-QUESTION-/edit/main/README.md)
