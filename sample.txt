@@ -1,0 +1,4 @@
+Hello, this is the first line.
+This file is created using write mode.
+This line is added using append mode.
+Appending more data to the file.
